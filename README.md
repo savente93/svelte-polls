@@ -1,3 +1,5 @@
+This was made while following along with this tutorial: https://youtube.com/playlist?list=PL4cUxeGkcC9hlbrVO_2QFVqVPhlZmz7tO
+
 # Svelte + TS + Vite
 
 This template should help get you started developing with Svelte and TypeScript in Vite.
